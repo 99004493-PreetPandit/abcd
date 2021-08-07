@@ -22,6 +22,7 @@ char* filename = "C:\\Users\\pavan\\OneDrive\\Desktop\\New folder (2)\\user_name
 // Log function
 User login()
 {
+    //45646546
     char name[10];
     char password[10];
     User lg;

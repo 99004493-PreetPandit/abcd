@@ -28,7 +28,7 @@ Follow the steps below to download the program, and play the **quiz game launche
 
 | Code Quality - Static analysis                                                                                                                                                  | Code Quality - Dynamic analysis                                                                                                                                                                        |
 |--|--|
-|[![Code Quality - Static Code - Cppcheck](https://github.com/GENESIS2021Q1/sdlc-team-19/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/GENESIS2021Q1/sdlc-team-19/actions/workflows/cppcheck.yml) |[![Code Quality Dynamic Code Analysis Valgrind](https://github.com/GENESIS2021Q1/sdlc-team-19/actions/workflows/dynamic%20code%20analysis.yml/badge.svg)](https://github.com/GENESIS2021Q1/sdlc-team-19/actions/workflows/dynamic%20code%20analysis.yml)|
+|[![Code Quality - Static Code - Cppcheck](https://github.com/99004493-PreetPandit/abcd/actions/workflows/cppcheck.yml/badge.svg?branch=master)](https://github.com/99004493-PreetPandit/abcd/actions/workflows/cppcheck.yml) |[![Code Quality Dynamic Code Analysis Valgrind](https://github.com/GENESIS2021Q1/sdlc-team-19/actions/workflows/dynamic%20code%20analysis.yml/badge.svg)](https://github.com/GENESIS2021Q1/sdlc-team-19/actions/workflows/dynamic%20code%20analysis.yml)|
 
 
 ## Folder Structure
